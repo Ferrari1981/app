@@ -10,7 +10,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 public class Class__Generation_Genetal_Tables {
     Context context;
-    //TODO
+    //TODO//
 
     CREATE_DATABASE Create_Database_СсылкаНАБазовыйКласс;
     public Class__Generation_Genetal_Tables(Context context) {

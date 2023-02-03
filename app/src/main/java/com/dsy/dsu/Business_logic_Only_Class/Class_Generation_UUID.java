@@ -15,7 +15,7 @@ import java.util.TimeZone;
 
 public class Class_Generation_UUID {
 
-    Context contextДляКлассаВремени;
+    Context contextДляКлассаВремени;//
 
     Integer ПубличноеIDПолученныйИзСервлетаДляUUID=0;
 
